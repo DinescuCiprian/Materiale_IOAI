@@ -1,15 +1,23 @@
 # Link-uri date de IOAI
 https://ioai-official.org/how-to-prepare/
 https://www.pyml.ro/
+https://www.kaggle.com/learn
+# Introducere în Deep Learning
+https://www.deeplearningbook.org
+
+# Link-uri cu materie pentru ajutor
 https://view.genially.com/6114cb839c7f2c0db31cefed/presentation-ai4hsv1
 https://www.kaggle.com/learn/intro-to-machine-learning
 https://www.deeplearningbook.org
-https://www.pyml.ro/machine-learning-lectii-online-in-python.php
+* https://www.pyml.ro/machine-learning-lectii-online-in-python.php
 https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data
 https://automatetheboringstuff.com/#toc
 https://wesmckinney.com/book/
 https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524
 https://www.coursera.org/learn/python#modules
+# Introducere in Pytorch
+https://www.kaggle.com/code/frtgnn/introduction-to-pytorch-a-very-gentle-start
+
 # Competiții Kaggle
 https://www.kaggle.com/competitions?hostSegmentIdFilter=5
 I. Titanic Kaggle
@@ -20,3 +28,31 @@ I. Titanic Kaggle
 4) https://www.kaggle.com/code/gusthema/titanic-competition-w-tensorflow-decision-forests
 5) https://www.kaggle.com/code/qasimghumman/titanic-predication
 6) https://www.kaggle.com/code/mohsinsial/titanic-eda-for-young-datascienctist/comments
+
+II. Recunoașterea de cifre
+1) https://www.kaggle.com/competitions/digit-recognizer
+2) https://www.kaggle.com/competitions/digit-recognizer/data
+# Rezolvare Recunoașterea de cifre
+# Rezolvarea de mai jos este făcută cu rețele neuronale (acuratețe de rezolvare:97,8%)
+3) https://www.kaggle.com/code/voltvipin/neural-network-97-8
+# Rezolvarea de mai jos este făcută de National Institute of Standards and Technology
+4) https://www.kaggle.com/code/mateuszgolebiewski/mnist-competition
+# Rezolvarea de mai jos este făcută folosind Pytorch
+5) https://www.kaggle.com/code/naufalhafishj/pytorch-digit-recognize
+6) https://www.kaggle.com/code/tacticularcancer/digit-recognizer
+# Rezolvarea de mai jos este făcuta numai cu numpy
+7) https://www.kaggle.com/code/middlehigh/mnist-neuralnet-from-scratch-no-keras-just-numpy
+# Problema de mai jos are o acuratețe de 99%
+8) https://www.kaggle.com/code/danbraswell/digit-recognizer-timm-resnet-18-cv-0-9923
+
+III. Prețurile caselor
+1) https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+2) https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+# Rezolvare Prețurile caselor
+3) https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf
+4) https://www.kaggle.com/code/ahmedgaitani/house-prices-code
+5) https://www.kaggle.com/code/roberts88/ames-house-price-regression 
+* 6) https://www.kaggle.com/code/saliharanauzun/house-prices-advanced-regression-techniques 
+7) https://www.kaggle.com/code/rintasetyon/house-prices-prediction-using-random-forest
+
+
